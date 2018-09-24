@@ -1,4 +1,4 @@
-age,female,voted,party,race
+age,gender,voted,party,race
 50,"FEMALE",1,"REPUBLICAN","WHITE"
 73,"MALE",0,"DEMOCRATIC","WHITE"
 62,"FEMALE",1,"DEMOCRATIC","WHITE"
